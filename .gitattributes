@@ -1,0 +1,19 @@
+# 文档文件
+*.docx filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+
+# 图像文件
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text
+*.ai filter=lfs diff=lfs merge=lfs -text   # Adobe Illustrator 源文件
+*.vsd filter=lfs diff=lfs merge=lfs -text  # Visio 源文件
+
+# 原始数据文件 (根据您实际的数据类型添加)
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text  # 例如，原始数据压缩包
+# 根据需要添加其他大型数据文件格式，如 .h5, .parquet, .mat 等

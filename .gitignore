@@ -1,0 +1,48 @@
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# IDE/编辑器生成的文件
+.vscode/
+*.swp
+*.swo
+
+# Microsoft Word 临时文件
+~$*.docx
+~*.docx
+*.tmp
+*.bak
+*.asd # Word 自动恢复文件
+
+# PDF 生成文件（如果将来从 LaTeX/Markdown 生成 PDF）
+*.aux
+*.log
+*.blg
+*.bbl
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+
+# Python 相关
+__pycache__/
+*.pyc
+.ipynb_checkpoints/ # Jupyter Notebook 检查点
+
+# R 相关
+.Rhistory
+.Rdata
+.Rproj.user/
+
+# 编译输出、日志或其他程序生成的文件
+*.log
+*.err
+*.out
+*.obj
+*.exe
+
+# 个人敏感或本地数据 (按需添加，如果某些大型原始数据不通过Git LFS管理)
+# /03_数据资源/原始数据/ # 如果原始数据非常大，且不通过LFS管理，则可以忽略此目录
