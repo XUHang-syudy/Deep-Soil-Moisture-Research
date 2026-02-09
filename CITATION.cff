@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Wu"
+    given-names: "Qifan"
+  - family-names: "Xu"
+    given-names: "Hang"
+  - family-names: "Su"
+    given-names: "Fuyuan"
+title: "DSWD-RF: Nested Interpretable ML for Deep Soil Water Depletion"
+version: 1.0.0
+doi: "https://doi.org/10.5281/zenodo.18529894"
+date-released: "2026-02-09"
+url: "https://github.com/XUHang-syudy/Deep-Soil-Moisture-Research"
+license: CC-BY-4.0
+type: software
+keywords:
+  - deep soil water depletion
+  - random forest
+  - SHAP
+  - Loess Plateau
+  - interpretable machine learning
