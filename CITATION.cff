@@ -7,6 +7,26 @@ authors:
     given-names: "Hang"
   - family-names: "Su"
     given-names: "Fuyuan"
+  - family-names: "Duan"
+    given-names: "Manli"
+  - family-names: "Zhou"
+    given-names: "Beibei"
+  - family-names: "He"
+    given-names: "Hailong"
+  - family-names: "Li"
+    given-names: "Min"
+  - family-names: "Hu"
+    given-names: "Qingfeng"
+  - family-names: "Li"
+    given-names: "Huijie"
+  - family-names: "Chen"
+    given-names: "Guangjie"
+  - family-names: "Li"
+    given-names: "Peng"
+  - family-names: "Feng"
+    given-names: "Ruimin"
+  - family-names: "Si"
+    given-names: "Bingcheng"
 title: "DSWD-RF: Nested Interpretable ML for Deep Soil Water Depletion"
 version: 1.0.0
 doi: "https://doi.org/10.5281/zenodo.18529894"
@@ -20,3 +40,4 @@ keywords:
   - SHAP
   - Loess Plateau
   - interpretable machine learning
+
