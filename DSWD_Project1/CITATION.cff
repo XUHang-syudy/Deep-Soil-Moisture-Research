@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Wu"
+    given-names: "Qifan"
+  - family-names: "Xu"
+    given-names: "Hang"
+  - family-names: "Su"
+    given-names: "Fuyuan"
+title: "DSWD-RF: Nested Interpretable ML for Deep Soil Water Depletion"
+version: 1.0.0
+doi: "10.5281/zenodo.XXXXXXX"  # TODO: 发布后替换为真实 DOI
+date-released: "2026-01-01"  # TODO: 发布后替换为真实日期
+url: "https://github.com/[username]/dswd-rf"  # TODO: 替换为真实仓库地址
+license: CC-BY-4.0
+type: software
+keywords:
+  - deep soil water depletion
+  - random forest
+  - SHAP
+  - Loess Plateau
+  - interpretable machine learning
